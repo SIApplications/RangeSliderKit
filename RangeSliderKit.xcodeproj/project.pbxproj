@@ -10,7 +10,7 @@
 		6D6876F71C92633B009F08B6 /* RangeSliderKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 6D6876F61C92633B009F08B6 /* RangeSliderKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6D6877001C926350009F08B6 /* RangeSlider.h in Headers */ = {isa = PBXBuildFile; fileRef = 6D6876FE1C926350009F08B6 /* RangeSlider.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6D6877011C926350009F08B6 /* RangeSlider.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D6876FF1C926350009F08B6 /* RangeSlider.m */; };
-		6D6877031C926462009F08B6 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6D6877021C926462009F08B6 /* Media.xcassets */; };
+		6D6877231C9273BF009F08B6 /* RangeSliderKit.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 6D6877221C9273BF009F08B6 /* RangeSliderKit.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,7 +19,7 @@
 		6D6876F81C92633B009F08B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6D6876FE1C926350009F08B6 /* RangeSlider.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RangeSlider.h; sourceTree = "<group>"; };
 		6D6876FF1C926350009F08B6 /* RangeSlider.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RangeSlider.m; sourceTree = "<group>"; };
-		6D6877021C926462009F08B6 /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
+		6D6877221C9273BF009F08B6 /* RangeSliderKit.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = RangeSliderKit.bundle; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,7 +56,7 @@
 				6D6876FF1C926350009F08B6 /* RangeSlider.m */,
 				6D6876F61C92633B009F08B6 /* RangeSliderKit.h */,
 				6D6876F81C92633B009F08B6 /* Info.plist */,
-				6D6877021C926462009F08B6 /* Media.xcassets */,
+				6D6877221C9273BF009F08B6 /* RangeSliderKit.bundle */,
 			);
 			path = RangeSliderKit;
 			sourceTree = "<group>";
@@ -130,7 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6D6877031C926462009F08B6 /* Media.xcassets in Resources */,
+				6D6877231C9273BF009F08B6 /* RangeSliderKit.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,6 +287,7 @@
 				6D6876FD1C92633B009F08B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

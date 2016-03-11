@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ./
 
 SPEC CHECKSUMS:
-  RangeSliderKit: 90eefcbdcfc41b4c0a7e5cd82195b3e01ec2e1fc
+  RangeSliderKit: 955d6932f14319dbd6305e1e5958ccc1ff60a920
 
 COCOAPODS: 0.39.0

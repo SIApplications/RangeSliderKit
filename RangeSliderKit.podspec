@@ -8,5 +8,5 @@ Pod::Spec.new do |s|
   s.platform            = :ios
   s.source_files        = 'RangeSliderKit/*.{h,m}'
   s.requires_arc        = true
-  s.resource_bundle     = { 'RangeSliderKit' => 'RangeSliderKit/Media.xcassets' }
+  s.resource            = 'RangeSliderKit/RangeSliderKit.bundle' 
 end
