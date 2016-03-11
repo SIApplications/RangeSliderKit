@@ -1,0 +1,14 @@
+PODS:
+  - RangeSliderKit (1.0.0)
+
+DEPENDENCIES:
+  - RangeSliderKit (from `./`)
+
+EXTERNAL SOURCES:
+  RangeSliderKit:
+    :path: ./
+
+SPEC CHECKSUMS:
+  RangeSliderKit: 90eefcbdcfc41b4c0a7e5cd82195b3e01ec2e1fc
+
+COCOAPODS: 0.39.0
